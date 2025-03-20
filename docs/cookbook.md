@@ -263,6 +263,8 @@ document.querySelectorAll('.tag-button').forEach(button => {
 -   :speaking_head:{ .lg .middle } __Talk to Llama 3.2 3b__
 {: data-tags="audio,llm,voice-chat"}
 
+
+
     ---
 
     Use the Lepton API to make Llama 3.2 talk back to you!
@@ -276,6 +278,21 @@ document.querySelectorAll('.tag-button').forEach(button => {
 
 -   :robot:{ .lg .middle } __Talk to Qwen2-Audio__
 {: data-tags="audio,llm,voice-chat"}
+
+    ---
+
+        Talk to Deepseek in real time using Elevenlabs voice API.
+
+    
+
+    [:octicons-arrow-right-24: Demo](https://huggingface.co/spaces/Twelve2five/fastrtc-voice-assistant)
+
+    [:octicons-arrow-right-24: Gradio UI](https://huggingface.co/spaces/Twelve2five/fastrtc-voice-assistant)
+
+    [:octicons-code-16: Code](https://huggingface.co/spaces/Twelve2five/fastrtc-voice-assistant/tree/main)
+
+-   :speaking_head:{ .lg .middle } __Elevenlabs & deepseek realtime__
+{: data-tags="audio,elevenlabs, deepseek,voice-chat"}
 
     ---
 
